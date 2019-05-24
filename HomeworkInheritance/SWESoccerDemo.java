@@ -1,6 +1,6 @@
 
-public class SWESoccer {
-	
+public class SWESoccerDemo {
+	//Exercise 1
 	public static void main(String[] args) {
 		SoccerPlayer obj[] = new SoccerPlayer[12];
 		
